@@ -4,7 +4,7 @@ about: Suggest an idea for the Cookbook
 title: "[FEATURE]"
 labels: ''
 assignees: ''
-
+about: Suggest an idea for the Cookbook
 ---
 
 [optional template]
